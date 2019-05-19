@@ -21,7 +21,7 @@ Spring Boot 2.1.4
 
 Java 11.
 
-Lombook.
+Lombok.
 
 
 ## 
@@ -40,9 +40,7 @@ created due to these files.
 
 I decided to do with Spring Boot Console Application because spring boot is so flexible to develop with. 
 I have also created custom validation exception hadler but I did not put any specification to the custom exceptions.
-
-NOTE : it took a bit more then 3 hours to finish. Because I have had some configuration problems for test cases. Therefore I spent a bit more time to figure out the problem.  
-NOTE2: the missing part of project is punctuation marks. My regex remove all the panctuation marks.Therefore, if the search text has anything other than letter and number, will not been find. 
+ 
 
 # Usage of application 
 
